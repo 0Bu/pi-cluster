@@ -1,0 +1,4 @@
+service:
+  type: LoadBalancer
+  externalPort: 443
+  loadBalancerIP: 192.168.1.23
